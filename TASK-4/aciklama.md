@@ -1,3 +1,2 @@
-
-
-sistemin kısa açıklaması (maks. 5-6 satır)
+İsim - Soy adı Nehir KÖKTEN Öğrenci No:250541039
+Bu ders kayıt sistemi, öğrencinin kimlik doğrulamasıyla başlar ve interaktif bir ders seçim arayüzü sunar. Öğrenci bir ders eklemeye çalıştığında, sistem anında bir kontrol zinciri başlatır: dersin kontenjanı, öğrencinin ön koşulları, kalan kredi limiti ve ders programındaki zaman çakışmaları otomatik olarak denetlenir. Yalnızca tüm bu kontrolleri başarıyla geçen dersler geçici bir sepete eklenebilir. Son adımda, öğrencinin oluşturduğu ders listesi nihai onay için akademik danışmana sunularak kayıt süreci resmiyet kazanır.
