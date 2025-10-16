@@ -1,3 +1,2 @@
-
-
-sistemin kısa açıklaması (maks. 5-6 satır)
+İsim - Soy isim Nehir KÖKTEN Öğrenci No:250541039 
+Bu akıllı ev güvenlik sistemi, Kullanıcı, Ana Sistem, Sensörler ve Alarm Mekanizması arasındaki etkileşim senaryosu olarak tasarlanmıştır. Süreç, Kullanıcının komutuyla Ana Sistemin kurulmasıyla başlar ve sistem sürekli bir gözetim döngüsüne girer. Bu döngüde Ana Sistem, periyodik olarak Sensörlerden durum raporu talep eder. Bir tehdit algılandığında, Sensörlerden gelen uyarı üzerine Ana Sistem derhal Alarm Mekanizmasına alarmı tetiklemesi ve Kullanıcıya acil bildirim göndermesi için komut verir. Sistem, her bir bileşenin sorumluluğunu ve aralarındaki iletişim sırasını net bir şekilde ortaya koyar.
