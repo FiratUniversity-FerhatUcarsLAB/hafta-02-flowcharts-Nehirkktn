@@ -1,1 +1,3 @@
+İsim - Soy isim Nehir KÖKTEN 
+Öğrenci No:250541039
 Bu sistem, kullanıcının sepet yönetimi ve ödeme sürecini baştan sona yönetir. Her ürün eklemesinde gerçek zamanlı stok kontrolü yaparak veri tutarlılığını sağlar. Ödeme aşamasında indirim ve kargo gibi dinamik maliyetleri hesaplayarak son sipariş özetini oluşturur ve ödemeyi harici bir ödeme ağ geçidi (payment gateway) üzerinden güvenli bir şekilde işler. Ödeme onayı alındığında, sipariş durumunu güncelleyen, stoğu düşüren ve siparişi kesinleştiren bölünemez (atomik) bir veritabanı işlemi başlatarak sistemin güvenilirliğini ve veri bütünlüğünü garanti altına alır.
