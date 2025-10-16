@@ -1,3 +1,2 @@
-
-
-sistemin kısa açıklaması (maks. 5-6 satır)
+İsim - Soy adı Nehir KÖKTEN Öğrenci No:250541039
+Bu Hastane Bilgi Sistemi, kullanıcıların ana menü üzerinden "Randevu Alma" ve "Tahlil Sonucu Görüntüleme" olmak üzere iki temel işlem yapmasını sağlayan bir akış sunar. Randevu süreci, hasta kimliğini veritabanından doğrulayarak başlar; başarılı olursa poliklinik, doktor ve saat seçimiyle devam eder. Başarılı bir randevu, veritabanına kaydedilir ve harici bir SMS servisiyle kullanıcıya onay mesajı gönderilir. Tahlil görüntüleme akışı ise doğrudan veritabanından verileri okuyup kullanıcıya sunar. Sistem, hasta bulunamaması gibi hata durumlarını da yöneterek süreci sonlandırır.
